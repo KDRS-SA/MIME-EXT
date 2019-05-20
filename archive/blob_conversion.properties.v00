@@ -1,0 +1,3 @@
+# all the extensions in the list must be separated with ONE blank space - the same formatting must be followed if adding
+# new extensions to the list.
+extensions.to.convert=doc,docx,xls,xlsx,ppt,pptx,rtf,bmp,pdf
