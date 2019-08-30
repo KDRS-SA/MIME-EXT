@@ -2,6 +2,20 @@
 MIME to File Extention list for archival preservation purposes.
 Extension list to be transformed to pdf/a Archival format.
 
+## 2019-08-29 18:12 ##
+
+Updated MIME to EXT (v03 in archive): conversion_mapping.cfg
+- 698 rows (increased from 29 rows)
+- Added Excel_v03 sorted by MIME & EXT
+
+New EXT filename : decom.properties
+- Added odt,ods (Open Office document & spreadsheet)
+- Added to current list: doc,docx,xls,xlsx,ppt,pptx,rtf,bmp,pdf
+- Updated EXT to pdf/a (v01 in archive) : decom.properties
+
+Added subfolder "archival\outdated" for previous versions of the lists.
+- Moved old EXT filname version to "archival\outdated" : blob_conversion.properties
+
 ## 2019-05-20 15:15 ##
 
 Updated MIME to EXT (v02): conversion_mapping.cfg

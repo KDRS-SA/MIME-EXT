@@ -1,0 +1,7 @@
+outdated_info.txt
+
+# Decom v1.3.0 #
+Properties filname changed to: decom.properties
+
+# Decom v1.1.3 and earlier #
+Properties filename: blob_conversion.properties
