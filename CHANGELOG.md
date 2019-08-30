@@ -2,6 +2,12 @@
 MIME to File Extention list for archival preservation purposes.
 Extension list to be transformed to pdf/a Archival format.
 
+## 2019-08-30 12:47 ##
+
+Updated MIME to EXT (v04 in archive): conversion_mapping.cfg
+- 733 rows
+- Added Excel_v04 sorted by MIME & EXT and added tab MIME_duplicates
+
 ## 2019-08-29 18:12 ##
 
 Updated MIME to EXT (v03 in archive): conversion_mapping.cfg
