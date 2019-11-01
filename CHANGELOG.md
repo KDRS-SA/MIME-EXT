@@ -2,11 +2,21 @@
 MIME to File Extention list for archival preservation purposes.
 Extension list to be transformed to pdf/a Archival format.
 
-## 2019-08-30 12:47 ##
+## 2019-11-01 09:00 ##
+
+New EXT filename : decom.properties
+- Added odp (Open Office presentation)
+- archive/decom.properties.v02
+
+Updated MIME to EXT (v05 in archive): marked odp as transforming to pdfa
+- updated archive/conversion_mapping_v04a.xlsx, odp row: TO_PDFA odp = 1, NEW = 4
+
+## 2019-08-30 12:50 ##
 
 Updated MIME to EXT (v04 in archive): conversion_mapping.cfg
 - 733 rows
 - Added Excel_v04 sorted by MIME & EXT and added tab MIME_duplicates
+- Renamed Excel to conversion_mapping_vnn.xlsx (nn = versioning)
 
 ## 2019-08-29 18:12 ##
 
